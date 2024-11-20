@@ -20,13 +20,13 @@ Objetivos del proyecto:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/nimsy-v/
+   git clone https://github.com/nimsy-v/Proyecto_Final
    ```
 
 2. Despues de clonar el repositorio en una terminar ejecutar el siguiente comando:
 
    ```bash
-   git remote add origin https://github.com/nimsy-v/
+   git remote add origin https://github.com/nimsy-v/Proyecto_Final.git
    ```
 
 3. Para verificar que se configuro correctamente ejecutar el siguiente comando:
@@ -39,7 +39,7 @@ Objetivos del proyecto:
 
 ## Enlace para vizualar en GitHub Pages
 
-- GitHub Pages: [Proyecto Final](https://nimsy-v.github.io/)
+- GitHub Pages: [Proyecto Final](https://nimsy-v.github.io/Proyecto_Final/)
 
 ## Autor
 
